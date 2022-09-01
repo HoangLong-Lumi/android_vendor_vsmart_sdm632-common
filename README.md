@@ -1,0 +1,1 @@
+# android_vendor_vsmart_sdm632-common
